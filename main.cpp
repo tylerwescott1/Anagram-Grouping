@@ -1,11 +1,3 @@
-/*
-HEADER COMMENT 
-Full name: Tyler Wescott
-NSHE: 5006959108
-Goal of the program/output: Sort groups of anagrams and output the amount of anagram
-groups you can create from the given set of words and the size of each set.
-*/
-
 #include <iostream>
 #include <fstream>
 #include <algorithm>
